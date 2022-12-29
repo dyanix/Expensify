@@ -5,7 +5,7 @@ import useStyles from './styles';
 import Main from './components/Main/Main';
 import { PushToTalkButton, PushToTalkButtonContainer } from '@speechly/react-ui';
 
-const App=() => {
+const App = () => {
     const classes = useStyles();
 
     return (
@@ -29,9 +29,9 @@ const App=() => {
             </PushToTalkButtonContainer>
         </div>
     )
-    }
+}
 
 
-export default App ;
+export default App
 
 
