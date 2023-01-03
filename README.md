@@ -1,3 +1,3 @@
 
-Expense Tracker
+#Expense Tracker
 "I developed an expense tracker application using Material UI for the UI design, React JS for the frontend, Speechly API for voice recognition, and ChartJS for data visualization. The application allows users to track their expenses and income by adding transactions through voice commands, manual input, or file upload. The transactions are then displayed in a user-friendly interface, with the option to view them in the form of various charts and graphs. I implemented features such as real-time updates and offline support, and utilized Material UI's responsive layout and design principles to create a visually appealing and functional application. Overall, the project was a great opportunity to learn and apply modern web development technologies and practices."
